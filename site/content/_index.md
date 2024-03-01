@@ -1,20 +1,26 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Ubumwe Protocol & Services
+subtitle: "Contact Us "
+image: img/img_20240225_205353_581.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: About Us
+  text: At Wedding Meeting Protocol and Service, we understand the significance of
+    every couple's journey towards their special day. With our expertise in
+    event planning and protocol management, we strive to make each wedding a
+    memorable and seamless experience.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: Why choose us
+  text: With Wedding Meeting Protocol and Service, you can entrust your wedding
+    day into capable hands, allowing you to focus on creating cherished memories
+    with your loved ones. Let us bring your dream wedding to life, one detail at
+    a time.
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/photogrid-15513550174gn8k.jpg
+    text: Weddings often follow traditional etiquette, including seating
+      arrangements, dress codes, and formalities such as speeches and toasts.
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Our Mission
+  text: To provide unparalleled service and attention to detail, ensuring that
+    every aspect of your wedding meets and exceeds your expectations. We aim to
+    create cherished moments that last a lifetime.
 ---
-
